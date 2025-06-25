@@ -1,2 +1,2 @@
-# RecipeSharingPlatform
-Exam project for Softuni ASP.NET Fundamentals course
+# Welcome to RecipeSharingPlatform 
+RecipeSharingPlatform is a web application designed to inspire and connect home cooks by showcasing delicious and creative recipes from various cuisines. Whether you're looking to try traditional meals or experiment with something new, RecipeSharingPlatform offers a space where users can discover, save, and share their favorite recipes. Logged-in users can create and manage their own Favorites list, while each recipe tracks its popularity through a counter for user engagement.
